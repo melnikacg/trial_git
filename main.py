@@ -16,6 +16,7 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print('feature')
     # for new branch
+    # from main
     # one more
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
